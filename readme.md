@@ -1,4 +1,4 @@
-\*\*This save file may be used, modified, and distributed freely. However, it is strictly forbidden to sell this file or use it for any commercial purposes\*\*
+**This save file may be used, modified, and distributed freely. However, it is strictly forbidden to sell this file or use it for any commercial purposes**
 
 
 
@@ -29,4 +29,5 @@ Final clear was the "True End".
 100% of Steam achievements unlocked.
 
 \*100% game completion, with all content unlocked and viewed.
+
 
